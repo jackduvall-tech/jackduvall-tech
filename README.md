@@ -17,7 +17,7 @@ Computer Engineering student at George Mason University with interests in embedd
 
 ## Current Projects 🚀
 
-### Logic-Based Security System 
+### [Logic-Based Security System](https://github.com/jackduvall-tech/logical-security-sys) 
 Designed and built a logic-based security system prototype using digital logic circuits, switches, LEDs, and combinational logic. The project focused on translating circuit simulations into a functioning real-world hardware system while troubleshooting integration, debugging physical implementation issues, and refining overall system reliability.
 
 
