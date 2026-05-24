@@ -25,7 +25,7 @@ Designed and built a logic-based security system prototype using digital logic c
 Developing a redesigned wearable medical device enclosure in Fusion 360 with a focus on ergonomics, internal component integration, manufacturability, and user experience. The project combines iterative prototyping, mechanical design, and product-oriented engineering workflows to improve both functionality and long-term usability.
 
 
-### [Student Collaboration App](https://github.com/jackduvall-tech/student-collaboration-app)
+### [Student Collaboration App](https://github.com/jackduvall-tech/collaboration-app)
 Built a Java-based social and academic collaboration simulation system focused on modeling study partnerships, friendship interactions, and progression-based user relationships through object-oriented software architecture. The project emphasized inheritance, interfaces, generics, validation systems, and reusable interaction frameworks.
 
 ### Taptic Engine Experiments
