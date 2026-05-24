@@ -21,7 +21,8 @@ Computer Engineering student at George Mason University with interests in embedd
 Designed and built a logic-based security system prototype using digital logic circuits, switches, LEDs, and combinational logic. The project focused on translating circuit simulations into a functioning real-world hardware system while troubleshooting integration, debugging physical implementation issues, and refining overall system reliability.
 
 
-### [Assistive Medical Device Redesign](https://github.com/jackduvall-tech/med_wearable-redesign)Developing a redesigned wearable medical device enclosure in Fusion 360 with a focus on ergonomics, internal component integration, manufacturability, and user experience. The project combines iterative prototyping, mechanical design, and product-oriented engineering workflows to improve both functionality and long-term usability.
+### [Assistive Medical Device Redesign](https://github.com/jackduvall-tech/med_wearable-redesign)
+Developing a redesigned wearable medical device enclosure in Fusion 360 with a focus on ergonomics, internal component integration, manufacturability, and user experience. The project combines iterative prototyping, mechanical design, and product-oriented engineering workflows to improve both functionality and long-term usability.
 
 
 ### Student Collaboration App 
