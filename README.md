@@ -28,7 +28,7 @@ Developing a redesigned wearable medical device enclosure in Fusion 360 with a f
 ### [Student Collaboration App](https://github.com/jackduvall-tech/collaboration-app)
 Built a Java-based social and academic collaboration simulation system focused on modeling study partnerships, friendship interactions, and progression-based user relationships through object-oriented software architecture. The project emphasized inheritance, interfaces, generics, validation systems, and reusable interaction frameworks.
 
-### Taptic Engine Experiments
+### [Taptic Engine Experiments](https://github.com/jackduvall-tech/taptic-engine)
 Currently experimenting with Apple’s Core Haptics framework and Taptic Engine systems in Swift to better understand tactile feedback systems, wearable interaction design, and human-device communication through early-stage proof-of-concept development.
 
 ----------
